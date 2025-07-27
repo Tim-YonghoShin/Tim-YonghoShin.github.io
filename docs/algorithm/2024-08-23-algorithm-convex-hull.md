@@ -1,6 +1,9 @@
 ---
-title:  "Convex Hull"
 layout: default
+title:  "Convex Hull"
+has_children: false
+nav_order: 0
+parent: Algorithm
 ---
 
 ## What's the Convex Hull ?
