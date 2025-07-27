@@ -6,3 +6,7 @@ url: https://Tim-YonghoShin.github.io
 
 aux_links:
   Template Repository: https://github.com/Tim-YonghoShin/Tim-YonghoShin.github.io
+
+nav:
+  - title: "Algorithm"
+    url: /_posts/algorithm/

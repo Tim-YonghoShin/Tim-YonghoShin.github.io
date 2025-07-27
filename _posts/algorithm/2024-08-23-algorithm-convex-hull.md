@@ -1,8 +1,6 @@
 ---
-layout: post
 title:  "Convex Hull"
-#date: 2024=08-23
-categories: Algorithm
+layout: default
 ---
 
 ## What's the Convex Hull ?
